@@ -1,0 +1,24 @@
+body {
+  color: #999;
+}
+
+.title {
+  text-align: center;
+}
+
+.field {
+  margin: 50px auto;
+  background-color: rgb(216, 201, 201);
+  border-collapse: collapse;
+}
+
+.cell {
+  width: 110px;
+  height: 110px;
+  border: 1px solid black;
+}
+
+.head {
+  width: 100px;
+  height: 100px;
+}
